@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "name": "Sports & Orthopaedics",
+        "description": "Our orthopaedic specialists and occupational therapists provide all-rounded treatment of knee, spine, hip and other sports and orthopaedic injuries.",
+        "img": "https://www.mountelizabeth.com.sg/images/default-source/banner/tmb_geh_meh_peh/tmbphase2_ortho_v01.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Heart",
+        "description": "Mount Elizabeth hosts the largest concentration of heart specialists in the Asia Pacific region. Equipped with modern technology and world-class facilities, we offer patients renewed possibilities in managing heart health.",
+        "img": "https://www.mountelizabeth.com.sg/images/default-source/banner/tmb_phase-3/thumbnails/tmbphase3_gensurgery_v01.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Cancer",
+        "description": "Our broad range of diagnostic tests, advanced chemotherapy and radiation treatment, counselling services and dedicated palliative care and support services provide a holistic care environment for positive outcomes.",
+        "img": "https://www.mountelizabeth.com.sg/Sitefinity/WebSiteTemplates/ParkwayTemplate/App_Themes/ParkwayTheme/Images/en/centre-excellence/07_186481191.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Maternity",
+        "description": "With a multidisciplinary team of obstetricians, fertility specialists, nurses, lactation consultants and a wide range of amenities, to give you advice, support, and peace of mind",
+        "img": "https://www.mountelizabeth.com.sg/images/default-source/default-album/maternity-journey.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Gastroenterology",
+        "description": "The Gastroenterology Centre unites gastroenterology, hepatology, colorectal and hepato-pancreato-biliary surgery together with nutrition, to optimise recovery.",
+        "img": "https://www.mountelizabeth.com.sg/images/default-source/default-album/06_186481198_v2.jpg?sfvrsn=7f5bcd11_2"
+    },
+    {
+        "id": 6,
+        "name": "Haematology",
+        "description": "Our haematology specialists are committed to providing a comprehensive range of services, treatment and specialty care to blood disorder patients of all ages.",
+        "img": "https://www.mountelizabeth.com.sg/images/default-source/default-album/haematology.tmb-400x300.jpg?sfvrsn=41d42c1a_1"
+    },
+    {
+        "id": 7,
+        "name": "Neurology",
+        "description": "The Neurology Centre has an extensive clinical history in treating strokes, brain traumas, epilepsy, neck and spine conditions, and sleep disorders.",
+        "img": "https://www.mountelizabeth.com.sg/Sitefinity/WebSiteTemplates/ParkwayTemplate/App_Themes/ParkwayTheme/Images/en/centre-excellence/08_108829333.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Fertility (IVF)",
+        "description": "Our Fertility Centre is committed to help couples overcome a range of fertility issues and to provide the quality care and support they need on their journey to parenthood.",
+        "img": "https://www.mountelizabeth.com.sg/images/default-source/coe/ivf-couple_v2.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Clinical Pathology Laboratory",
+        "description": "Our laboratory professionals are committed to being the finest in clinical laboratory, histopathology and genetics testing",
+        "img": "https://www.mountelizabeth.com.sg/Sitefinity/WebSiteTemplates/ParkwayTemplate/App_Themes/ParkwayTheme/Images/en/diagnostic-tech-services/clinical_laboratory.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Health Screening",
+        "description": "Our diverse range of health screening programmes are tailored to meet the needs of both individuals and employees of corporate organisations.",
+        "img": "https://www.mountelizabeth.com.sg/Sitefinity/WebSiteTemplates/ParkwayTemplate/App_Themes/ParkwayTheme/Images/en/diagnostic-tech-services/health_screening.jpg"
+    },
+    {
+        "id": 11,
+        "name": "Rehabilitation Services",
+        "description": "Our rehabilitation services include physiotherapy, occupational therapy, podiatry, prosthetics and orthotics, and home care services for patients of all ages.",
+        "img": "https://www.mountelizabeth.com.sg/images/default-source/default-album/rehab-services.jpg"
+    },
+    {
+        "id": 12,
+        "name": "Nutrition & Dietetics",
+        "description": "Our dietitians provide evidence-based and customised nutrition care to help patients improve health outcomes and healthy individuals reduce disease risks.",
+        "img": "https://www.mountelizabeth.com.sg/images/default-source/default-album/healthy-nutritious-meal.jpg"
+    }
+]
